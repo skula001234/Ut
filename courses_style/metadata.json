@@ -1,0 +1,26 @@
+{
+  "example": {
+    "title": "VDO 2025",
+    "description": "Utkarsh Abhimanyu 2025", 
+    "thumbnail": "https://files.catbox.moe/ysmegh.jpg",
+    "startDate": "2025-01-15",
+    "endDate": "2025-08-21", 
+    "videoCount": 3,
+    "pdfCount": 2,
+    "price": "₹ 3200",
+    "rating": "4.5/5",
+    "reviewCount": 10
+  },
+  "sub": {
+    "title": "Sub Inspector ",
+    "description": "Recorded Batch From Jodhpur", 
+    "thumbnail": "https://files.catbox.moe/0wy3xp.jpg",
+    "startDate": "2023-08-06",
+    "endDate": "2024-03-04", 
+    "videoCount": 17,
+    "pdfCount": 2,
+    "price": "$99",
+    "rating": "4.8",
+    "reviewCount": 120
+  }
+}
